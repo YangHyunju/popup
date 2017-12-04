@@ -2,8 +2,10 @@
 
 <%@include file="include/header.jsp" %>
 
+
 <div class="table-responsive">
 <h2 class="form-signin-heading">U-Chart Notice</h2>
+<button type="button" class="btn btn-lg btn-default">Create</button>
             <table class="table table-striped">
               <thead>
                 <tr>
